@@ -26,7 +26,7 @@ Adicione essas bibliotecas ao seu projeto antes de compilar.
 
 Se estiver utilizando o sistema no Windows, adicione a seguinte linha ao arquivo `persistence.xml` para ajustar o fuso horário:
 
-<property name="hibernate.jdbc.time_zone" value="UTC"/>
+   - `<property name="hibernate.jdbc.time_zone" value="UTC"/>`
 
 ## Funcionalidades
 
